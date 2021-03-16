@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+.nav{
+    position: absolute;
+    width: 375px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background: #1D4354;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.logo{
+    position: absolute;
+    width: 37.01px;
+    height: 37.01px;
+    left: 16px;
+    top: 16px;
+}
+.lyfacture{
+    position: absolute;
+    width: 65px;
+    height: 21px;
+    left: 74.77px;
+    top: 24.71px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6FDA44;
+}
+.English{
+    position: absolute;
+    width: 51px;
+    height: 21px;
+    left: 252px;
+    top: 24px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.globe-icon{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 323px;
+    top: 17px; 
+}
+.Invoice-Template-btn{
+    position: absolute;
+    width: 219px;
+    height: 44px;
+    left: 16px;
+    top: 90px;
+    background: #FFFFFF;
+    border: 2px solid #1D4354;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.Invoice-Template-btn:first-child{
+    position: absolute;
+    width: 219px;
+    height: 44px;
+    left: 16px;
+    top: 90px;
+    background: #FFFFFF;
+    border: 2px solid #1D4354;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.Invoice-Template{
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    color:#1D4354;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 21px;
+    width: 124px;
+    left: 175px;
+    top: 107px;
+}
+.Vector{
+    /* position: absolute; */
+    margin-left: 10px;
+    left: 25%;
+    right: 24.99%;
+    top: 37.5%;
+    bottom: 37.5%;
+    height: 13.250389575958252px;
+    width: 15.500782012939453px;
+    left: 5.2503662109375px;
+    top: 7.8756103515625px;
+    border: 1px solid #000000;
+}
+.PDF-btn{
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 253px;
+    top: 90px;
+    background: #FFFFFF;
+    border: 1px solid #1D4354;
+    box-sizing: border-box;
+    border-radius: 21.5px;
+}
+
+.Send-btn{       
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 315px;
+    top: 90px;
+    background: #37A000;
+    border-radius: 22px;
+}
+.Send-btn img{
+    left: 53.73%;
+    right: 35.79%;
+    top: 52.1%;
+    bottom: 26.33%;
+    color: #000000;
+}
+.Send-btn img{
+    left: 70%;
+    right: -10%;
+    top: 13.33%;
+    bottom: 46.67%;
+    
+    color: #FFFFFF;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.Preview-btn{
+    position: absolute;
+    width: 172px;
+    height: 44px;
+    left: 16px;
+    top: 154px;
+    background: #1D4354;
+    border: 1px solid #1D4354;
+    border-radius: 4px 0px 0px 4px;
+}
+.Preview-btn-text{
+    /* position: absolute; */
+    width: 72px;
+    height: 27px;
+    left: 66px;
+    top: 163px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.Edit-btn{
+    position: absolute;
+    width: 171px;
+    height: 44px;
+    left: 188px;
+    top: 154px;
+    background: #FFFFFF;
+    border: 1px solid #1D4354;
+    box-shadow: -4px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 4px 4px 0px;
+}
+.Edit-btn-text{
+    /* position: absolute; */
+    width: 34px;
+    height: 27px;
+    left: 257px;
+    top: 162px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.25);
+
+}
+.Invoice-BG{
+    position: absolute;
+    width: 342px;
+    height: 465px;
+    left: 17px;
+    top: 248px;
+    background: url(../Logo/Rectangle\ 75.png);
+    border-radius: 2px;
+}
+

@@ -1,0 +1,339 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.nav{
+    position: absolute;
+    width: 375px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background: #1D4354;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.logo{
+    position: absolute;
+    width: 37.01px;
+    height: 37.01px;
+    left: 16px;
+    top: 16px;
+}
+.lyfacture{
+    position: absolute;
+    width: 65px;
+    height: 21px;
+    left: 74.77px;
+    top: 24.71px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6FDA44;
+}
+.English{
+    position: absolute;
+    width: 51px;
+    height: 21px;
+    left: 252px;
+    top: 24px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.globe-icon{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 323px;
+    top: 17px; 
+}
+.Invoice-Template-btn{
+    position: absolute;
+    width: 219px;
+    height: 44px;
+    left: 16px;
+    top: 90px;
+    background: #FFFFFF;
+    border: 2px solid #1D4354;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.Invoice-Template-btn:first-child{
+    position: absolute;
+    width: 219px;
+    height: 44px;
+    left: 16px;
+    top: 90px;
+    background: #FFFFFF;
+    border: 2px solid #1D4354;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.Invoice-Template{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    color:#1D4354;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 21px;
+    width: 124px;
+    left: 175px;
+    top: 107px;
+}
+.Vector{
+    /* position: absolute; */
+    margin-left: 10px;
+    left: 25%;
+    right: 24.99%;
+    top: 37.5%;
+    bottom: 37.5%;
+    height: 13.250389575958252px;
+    width: 15.500782012939453px;
+    left: 5.2503662109375px;
+    top: 7.8756103515625px;
+    border: 1px solid #000000;
+}
+.PDF-btn{
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 253px;
+    top: 90px;
+    background: #FFFFFF;
+    border: 1px solid #1D4354;
+    box-sizing: border-box;
+    border-radius: 21.5px;
+}
+
+.Send-btn{       
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 315px;
+    top: 90px;
+    background: #37A000;
+    border-radius: 22px;
+}
+.Send-btn img{
+    left: 53.73%;
+    right: 35.79%;
+    top: 52.1%;
+    bottom: 26.33%;
+    color: #000000;
+}
+.Send-btn img{
+    left: 70%;
+    right: -10%;
+    top: 13.33%;
+    bottom: 46.67%;
+    
+    color: #FFFFFF;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.Preview-btn{
+    position: absolute;
+    width: 172px;
+    height: 44px;
+    left: 16px;
+    top: 154px;
+    background: #1D4354;
+    border: 1px solid #1D4354;
+    border-radius: 4px 0px 0px 4px;
+}
+.Preview-btn-text{
+    /* position: absolute; */
+    width: 72px;
+    height: 27px;
+    left: 66px;
+    top: 163px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.Edit-btn{
+    position: absolute;
+    width: 171px;
+    height: 44px;
+    left: 188px;
+    top: 154px;
+    background: #FFFFFF;
+    border: 1px solid #1D4354;
+    box-shadow: -4px 0px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 0px 4px 4px 0px;
+}
+.Edit-btn-text{
+    /* position: absolute; */
+    width: 34px;
+    height: 27px;
+    left: 257px;
+    top: 162px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.25);
+}
+.file{
+    /* position: absolute; */
+    left: 5.12%;
+    right: 5.12%;
+    top: 0%;
+    bottom: 0%;
+    background: #1D4354;
+}
+.footer{
+    position: absolute;
+    width: 375px;
+    height: 251px;
+    left: 0px;
+    top: 561px;
+    background: #1D4354;
+    border-radius: 8px 8px 0px 0px;
+}
+.footer .contact .info li{
+   
+    margin-top: 10px;
+    list-style: none;
+    display: inline-block;
+    /* position: absolute; */
+    width: 162px;
+    height: 21px;
+    left: 16px;
+    top: 591px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}.invoice-logo{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 152px;
+    top: 100px;
+    background: #1D4354;
+}
+.midle-text{
+    position: absolute;
+    width: 341px;
+    height: 110px;
+    left: 16px;
+    top: 436px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #F51F1F;
+}
+.midle-text-2 {
+    position: absolute;
+    width: 341px;
+    height: 110px;
+    left: 16px;
+    top: 460px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #F51F1F;
+}
+.invoice-text{
+    position: absolute;
+    width: 296px;
+    height: 48px;
+    left: 42px;
+    top: 200px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+.invoice-text-1{
+    position: absolute;
+    width: 253px;
+    height: 27px;
+    left: 64px;
+    top: 268px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: rgba(0, 0, 0, 0.2);
+}
+.btn{
+    position: absolute;
+    width: 173px;
+    height: 44px;
+    left: 101px;
+    top: 330px;
+    background: #6FDA44;
+    border-radius: 4px;
+}
+.btn-text{
+    width: 110px;
+    height: 27px;
+    left: 133px;
+    top: 339px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.footer text{
+    margin-top: 30px;
+}
+.text .text1{
+    /* position: absolute; */
+    width: 204px;
+    height: 30px;
+    margin-left: 18%;
+    left: 86px;
+    top: 714px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #E5E5E5;
+    text-align: center;
+}
+.text .text-2{
+    /* position: absolute; */
+    width: 233px;
+    height: 18px;
+    left: 71px;
+    top: 764px;
+    margin-left: 18%;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}

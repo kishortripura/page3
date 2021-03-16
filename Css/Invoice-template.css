@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.nav{
+    position: absolute;
+    width: 375px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background: #1D4354;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+.logo{
+    position: absolute;
+    width: 37.01px;
+    height: 37.01px;
+    left: 16px;
+    top: 16px;
+}
+.lyfacture{
+    position: absolute;
+    width: 65px;
+    height: 21px;
+    left: 74.77px;
+    top: 24.71px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6FDA44;
+}
+.English{
+    position: absolute;
+    width: 51px;
+    height: 21px;
+    left: 252px;
+    top: 24px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.globe-icon{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 323px;
+    top: 17px; 
+}
+
+.Invoice-Template-text{
+    position: absolute;
+    width: 246px;
+    height: 18px;
+    left: 64px;
+    top: 100px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.06em;
+    color: #000000;
+}
+.invoice-template-btn{
+    position: absolute;
+    width: 343px;
+    height: 44px;
+    left: 16px;
+    top: 165px;
+    background: #6FDA44;
+    border-radius: 4px;
+}
+.invoice-template-btn-text{
+    /* position: absolute; */
+    width: 110px;
+    height: 27px;
+    left: 133px;
+    top: 174px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+.edit{
+    width: 24px;
+    height: 24px;
+    left: 290px;
+    top: 287px;
+}
+.trast{
+    width: 24px;
+    height: 24px;
+    left: 325px;
+    top: 287px;    
+}
+
+.table-heading{
+    width: 343.01px;
+    height: 62.15px;
+    left: 16px;
+    top: 209px;
+    margin: 5px;
+    padding: 5px;
+    border-top :1px solid rgba(29, 67, 84, 0.7);
+}
+.table-data{
+    width: 343px;
+    height: 62px;
+    left: 16px;
+    top: 287px;
+    border-top: 1px solid rgba(29, 67, 84, 0.7);
+}
+.invoice-form{
+    position: absolute;
+    width: 343px;
+    height: 44px;
+    left: 16px;
+    top: 210px;
+}
+
+.midle-text{
+    position: absolute;
+    width: 341px;
+    height: 110px;
+    left: 16px;
+    top: 790px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #F51F1F;
+    
+}
+.midle-text-2 {
+    position: absolute;
+    width: 341px;
+    height: 110px;
+    left: 16px;
+    top: 850px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #F51F1F;
+}
+
+
+.footer text{
+    margin-top: 30px;
+}
+.text .text1{
+    /* position: absolute; */
+    width: 204px;
+    height: 30px;
+    margin-left: 18%;
+    left: 86px;
+    top: 714px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #E5E5E5;
+    text-align: center;
+}
+.text .text-2{
+    /* position: absolute; */
+    width: 233px;
+    height: 18px;
+    left: 71px;
+    top: 764px;
+    margin-left: 18%;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.footer{
+    position: absolute;
+    width: 375px;
+    height: 251px;
+    left: 1px;
+    top: 906px;
+    background: #1D4354;
+    border-radius: 8px 8px 0px 0px;
+}
+.footer .contact .info li{
+   
+    margin-top: 10px;
+    list-style: none;
+    display: inline-block;
+    /* position: absolute; */
+    width: 162px;
+    height: 21px;
+    left: 25px;
+    top: 591px;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
